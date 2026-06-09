@@ -13,7 +13,6 @@
     <ItemGroup>
       <Folder Include="Shared\Infrastructure\" />
       <Folder Include="Shared\Interfaces\" />
-      <Folder Include="Shared\Resources\" />
     </ItemGroup>
 
 </Project>
