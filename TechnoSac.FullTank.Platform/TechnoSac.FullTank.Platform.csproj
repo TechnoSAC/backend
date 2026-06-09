@@ -10,4 +10,9 @@
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.3"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Shared\Infrastructure\" />
+      <Folder Include="Shared\Interfaces\" />
+    </ItemGroup>
+
 </Project>
