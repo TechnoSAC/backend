@@ -11,7 +11,9 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Shared\Domain\" />
+      <Folder Include="Shared\Domain\Model\Entities\" />
+      <Folder Include="Shared\Domain\Model\Events\" />
+      <Folder Include="Shared\Domain\Repositories\" />
       <Folder Include="Shared\Infrastructure\" />
       <Folder Include="Shared\Interfaces\" />
       <Folder Include="Shared\Resources\" />
