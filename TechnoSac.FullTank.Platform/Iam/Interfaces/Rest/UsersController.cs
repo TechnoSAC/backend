@@ -18,7 +18,7 @@ namespace TechnoSac.FullTank.Platform.Iam.Interfaces.Rest;
 
 [Authorize]
 [ApiController]
-[Route("api/v1/[controller]")]
+[Route("api/v1/[controller]")] 
 [Produces(MediaTypeNames.Application.Json)]
 [SwaggerTag("Available User endpoints")]
 public class UsersController(
